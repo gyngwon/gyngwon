@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Wony
+# 👋 Hello 안녕하세요 Buongiorno, I’m Wony
 
 - 👀 I’m interested in Real-Time Data Processing, Machine Learning, and Cloud Technologies
 - 🌱 I’m currently learning AWS Cloud Services, GCP, PySpark, and Kafka
