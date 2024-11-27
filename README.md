@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on Data Science, Cloud Architecture, and Real-Time Data Processing projects
 - 📫 How to reach me: [ruddnjs0366@gmail.com](mailto:ruddnjs0366@gmail.com)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I’m passionate about exploring new tech and finding innovative ways to solve real-world problems with data
+- ⚡ I’m passionate about exploring new tech and finding innovative ways to solve real-world problems with data
 
 <!---
 gyngwon/gyngwon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
