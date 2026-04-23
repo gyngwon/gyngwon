@@ -3,7 +3,7 @@
 - 👀 I’m interested in Real-Time Data Processing, Machine Learning, and Cloud Technologies
 - 🌱 I’m currently learning AWS Cloud Services, GCP, PySpark, and Kafka
 - 💞️ I’m looking to collaborate on Data Science, Cloud Architecture, and Real-Time Data Processing projects
-- 📫 How to reach me: [ruddnjs0366@gmail.com](mailto:ruddnjs0366@gmail.com)
+- 📫 How to reach me: [ruddnjs0366@gmail.com](mailto:wony.gsong@gmail.com)
 - 😄 Pronouns: She/Her
 - ⚡ I’m passionate about exploring new tech and finding innovative ways to solve real-world problems with data
 
